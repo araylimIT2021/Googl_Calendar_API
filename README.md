@@ -1,9 +1,10 @@
 # Inserting/Creating event in Google Calendar through Google Calendar API
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/af4e6251-ae90-4847-9b66-0a9f7ff2cd69/a8f023c5-361c-44d8-9415-2ecca1a36362/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/af4e6251-ae90-4847-9b66-0a9f7ff2cd69/7fb2c980-beeb-41be-9993-288c84409343/Untitled.png)
+![screenshot4](https://github.com/araylimIT2021/Googl_Calendar_API/assets/128516749/6bad7d76-5276-4444-95c9-541738059d0f)
+
 # Getting information from Google Calendar through Google Calendar API
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/af4e6251-ae90-4847-9b66-0a9f7ff2cd69/07fe4b98-eb47-485c-b9a9-0551d329212f/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/af4e6251-ae90-4847-9b66-0a9f7ff2cd69/87930321-cab1-41fc-af5e-407bffeb4fd3/Untitled.png)
+![screenshot3](https://github.com/araylimIT2021/Googl_Calendar_API/assets/128516749/9e0a96c6-8ebd-4378-aa97-288a86010fa9)
+
 # Deleting event from Google Calendar through Google Calendar API
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/af4e6251-ae90-4847-9b66-0a9f7ff2cd69/b3031d11-995b-469c-bf38-00689bdfb1c8/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/af4e6251-ae90-4847-9b66-0a9f7ff2cd69/c11a4bf9-164c-44c8-bef9-c655c2ec1589/Untitled.png)
+![screenshot2](https://github.com/araylimIT2021/Googl_Calendar_API/assets/128516749/c4d13a1a-1b0a-4bd3-abbd-b0997da4b8c4)
+
+![Screenshot1](https://github.com/araylimIT2021/Googl_Calendar_API/assets/128516749/d6b7ddc7-7b87-4d0b-b929-803dcf66fbe5)
